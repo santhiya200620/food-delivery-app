@@ -1,4 +1,4 @@
-package com.food.app;
+package com.santhiya.foodapp;
 
 import com.getcapacitor.BridgeActivity;
 
