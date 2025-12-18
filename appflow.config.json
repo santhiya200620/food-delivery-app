@@ -1,4 +1,13 @@
 {
+  "app_id": "com.santhiya.fooddelivery",
+  "name": "Food Delivery App",
+  "type": "cordova",
+  "bundledWebRuntime": false,
+  "platforms": ["android"],
+  "cordova": {
+    "preferences": {},
+    "plugins": {}
+  },
   "android": {
     "root": "android",
     "gradleTask": "bundleDebug"
