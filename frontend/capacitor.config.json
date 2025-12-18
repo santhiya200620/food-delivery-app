@@ -1,0 +1,6 @@
+{
+  "appId": "com.santhiya.foodapp",
+  "appName": "FoodApp",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
