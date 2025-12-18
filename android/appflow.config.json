@@ -1,11 +1,11 @@
 {
-  "app_id": "YOUR_APP_ID",
-  "name": "FoodDeliveryApp",
+  "app_id": "com.yourcompany.fooddelivery",
+  "name": "Food Delivery App",
   "type": "cordova",
-  "bundled_web_runtime": false,
-  "npm_client": "npm",
+  "bundledWebRuntime": false,
+  "platforms": ["android"],
   "cordova": {
-    "platforms": ["android"],
+    "preferences": {},
     "plugins": {}
   }
 }
