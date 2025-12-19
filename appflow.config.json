@@ -1,6 +1,10 @@
 {
   "android": {
-    "root": "frontend/android",
-    "gradleTask": ":app:bundleDebug"
+    "root": "android",
+    "gradleTask": "assembleDebug"
+  },
+  "ios": {
+    "root": "ios",
+    "scheme": "App"
   }
 }
