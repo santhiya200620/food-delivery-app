@@ -1,15 +1,16 @@
 {
   "apps": [
     {
-      "appId": "ed140720",
+      "appId": "ed140720", 
       "android": {
-        "root": "frontend/android",
+        "root": "android",
         "gradleTask": "assembleDebug"
       },
       "ios": {
-        "root": "frontend/ios",
+        "root": "ios",
         "scheme": "App"
       }
     }
   ]
 }
+notepad appflow.config.json
