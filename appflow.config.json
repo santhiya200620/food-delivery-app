@@ -1,13 +1,13 @@
 {
   "apps": [
     {
-      "appId": "ed140720", 
+      "appId": "ed140720",
       "android": {
-        "root": "android",
+        "root": "frontend/android",
         "gradleTask": "assembleDebug"
       },
       "ios": {
-        "root": "ios",
+        "root": "frontend/ios",
         "scheme": "App"
       }
     }
