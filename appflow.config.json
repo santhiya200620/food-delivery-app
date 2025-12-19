@@ -1,10 +1,15 @@
 {
-  "android": {
-    "root": "android",
-    "gradleTask": "assembleDebug"
-  },
-  "ios": {
-    "root": "ios",
-    "scheme": "App"
-  }
+  "apps": [
+    {
+      "appId": "ed140720", 
+      "android": {
+        "root": "android",
+        "gradleTask": "assembleDebug"
+      },
+      "ios": {
+        "root": "ios",
+        "scheme": "App"
+      }
+    }
+  ]
 }
