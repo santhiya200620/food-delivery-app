@@ -1,6 +1,6 @@
 {
-  "appId": "com.santhiya.foodapp",
-  "appName": "FoodApp",
+  "appId": "com.food.delivery",
+  "appName": "Food Delivery App",
   "webDir": "dist",
   "bundledWebRuntime": false
 }
