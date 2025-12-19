@@ -1,0 +1,6 @@
+{
+  "android": {
+    "root": "frontend/android",
+    "gradleTask": ":app:bundleDebug"
+  }
+}
