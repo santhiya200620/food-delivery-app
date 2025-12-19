@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">FoodApp</string>
-    <string name="title_activity_main">FoodApp</string>
-    <string name="package_name">com.santhiya.foodapp</string>
-    <string name="custom_url_scheme">com.santhiya.foodapp</string>
+    <string name="app_name">Food Delivery App</string>
+    <string name="title_activity_main">Food Delivery App</string>
+    <string name="package_name">com.food.delivery</string>
+    <string name="custom_url_scheme">com.food.delivery</string>
 </resources>

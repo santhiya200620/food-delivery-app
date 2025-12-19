@@ -1,6 +1,5 @@
 # Using Android gitignore template: https://github.com/github/gitignore/blob/HEAD/Android.gitignore
-__pycache__/
-*.pyc
+
 # Built application files
 *.apk
 *.aar
@@ -38,7 +37,6 @@ proguard/
 
 # Android Studio captures folder
 captures/
-node_modules/
 
 # IntelliJ
 *.iml
@@ -51,8 +49,6 @@ node_modules/
 # Android Studio 3 in .gitignore file.
 .idea/caches
 .idea/modules.xml
-android/.gradle/
-android/build/
 # Comment next line if keeping position of elements in Navigation Editor is relevant for you
 .idea/navEditor.xml
 
