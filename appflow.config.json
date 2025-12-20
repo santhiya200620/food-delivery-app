@@ -1,15 +1,6 @@
 {
-  "apps": [
-    {
-      "appId": "8ce33987",
-      "android": {
-        "root": "frontend/android",
-        "gradleTask": "assembleDebug"
-      },
-      "ios": {
-        "root": "frontend/ios",
-        "scheme": "App"
-      }
-    }
-  ]
+  "android": {
+    "root": "android",
+    "gradleTask": "app:bundleDebug"
+  }
 }
